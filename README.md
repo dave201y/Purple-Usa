@@ -1,7 +1,1 @@
-👋 Hi, I’m @dave201y
-👀 I’m interested in increasing my knowledge and skills in data visualization and data structure.
-🌱 I’m currently learning at Minnesota State University, Mankato
-💞️ I’m looking to collaborate on projects involving data visualization
-📫 How to reach me: dawit.gebremariam@mnsu.edu 
-😄 Pronouns: He/Him
-⚡ Fun fact: I’m actively seeking internships to gain practical experience in my field.
+This program draws a map to show presidential election results with subregions either colored red/blue to show whether democrats/republicans won that subregion or colored a shade of purple based on the proportion of deomocrat/republican/other votes. The map can be chosen to display the USA subdivided by states or a state subdivided by counties. The user will enter data to choose USA or a state, the election year, and whether a red/blue or purple map will be drawn.
